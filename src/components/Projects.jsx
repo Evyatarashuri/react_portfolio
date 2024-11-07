@@ -28,7 +28,6 @@ const Projects = () => {
                                     height={400}
                                     alt={project.title}
                                     className="mb-6 rounded"
-                                    style={{ transform: "translateX(-150px)" }}
                                 />
                         </motion.div>
                         <motion.div
