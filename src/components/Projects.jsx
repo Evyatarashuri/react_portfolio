@@ -24,10 +24,11 @@ const Projects = () => {
                         >
                                 <img
                                     src={project.image}
-                                    width={150}
-                                    height={150}
+                                    width={400}
+                                    height={400}
                                     alt={project.title}
                                     className="mb-6 rounded"
+                                    style={{ transform: "translateX(-150px)" }}
                                 />
                         </motion.div>
                         <motion.div

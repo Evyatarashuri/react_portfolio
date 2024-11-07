@@ -3,13 +3,9 @@ import project1 from "../assets/projects/project-1.png";
 // import project3 from "../assets/projects/project-3.jpg";
 // import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `A highly motivated self-learner with excellent communication skills and a strong
-sense of ownership over tasks. I am passionate about software development and
-eager to learn new technologies. I maintain an open mind to learning and
-continuously stay updated with the latest trends in backend development. I am not
-afraid to make mistakes, as I believe they are key to growth and improvement.`;
+export const HERO_CONTENT = `I'm a driven, self-motivated developer with a strong sense of responsibility and a passion for growth. Always eager to expand my knowledge in software development, I strive to be the best version of myself and view challenges and even mistakes as valuable opportunities for improvement and innovation.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `As a dedicated backend developer with a proactive approach, I have honed my skills in creating scalable and efficient web applications using Python, Django, and other relevant technologies. My commitment to continuous learning and improvement keeps me updated with the latest industry trends. I bring a strong sense of responsibility to every project, with excellent communication skills that help bridge technical and non-technical discussions effectively. Embracing mistakes as learning opportunities, I aim to deepen my expertise and contribute to impactful software solutions.`;
 
 export const EXPERIENCES = [
   {
@@ -39,7 +35,7 @@ export const EXPERIENCES = [
       including memory management with pointers in C and efficient coding practices in Java.
       Completed various projects that demonstrated practical application and advanced
       problem-solving abilities.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    technologies: ["Problem-Solving", "Java", "C", "OOP"],
   },
   // {
   //   year: "2021 - 2022",
@@ -89,7 +85,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
+  // address: "767 Fifth Avenue, New York, NY 10153 ",
+  // phoneNo: "+12 4555 666 00 ",
   email: "evyatar54545@gmail.com",
 };
