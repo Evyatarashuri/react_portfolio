@@ -36,7 +36,11 @@ const Projects = () => {
                             transition={{ duration: 1 }}
                             className="w-full max-w-xl lg:w-3/4"
                         >
-                            <h6 className="mb-2 font-semibold">{project.title}</h6>
+                            <h6 className="mb-2 font-semibold">
+                                <a href={project.link} target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">
+                                    {project.title}
+                                </a>
+                            </h6>
                             <p className="mb-4 text-neutral-400">{project.description}</p>
                             {project.technologies.map((tech, index) => (
                                 <span key={index}
