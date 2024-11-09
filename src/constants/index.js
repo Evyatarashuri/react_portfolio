@@ -25,18 +25,18 @@ export const EXPERIENCES = [
     IAM roles management.`,
     technologies: ["Python", "Django", "AWS", "Docker", "Nginx"],
   },
-  {
-    year: " 2024 - 2027",
-    role: " bachelor's degree",
-    company: " Computer Science",
-    description: `Applied Object-Oriented Programming (OOP) principles, including polymorphism, in C and
-      Java. Gained experience with data structures such as binary trees and algorithms,
-      focusing on time complexity and optimization. Developed proficiency in C and Java,
-      including memory management with pointers in C and efficient coding practices in Java.
-      Completed various projects that demonstrated practical application and advanced
-      problem-solving abilities.`,
-    technologies: ["Problem-Solving", "Java", "C", "OOP"],
-  },
+  // {
+  //   year: " 2024 - 2027",
+  //   role: " bachelor's degree",
+  //   company: " Computer Science",
+  //   description: `Applied Object-Oriented Programming (OOP) principles, including polymorphism, in C and
+  //     Java. Gained experience with data structures such as binary trees and algorithms,
+  //     focusing on time complexity and optimization. Developed proficiency in C and Java,
+  //     including memory management with pointers in C and efficient coding practices in Java.
+  //     Completed various projects that demonstrated practical application and advanced
+  //     problem-solving abilities.`,
+  //   technologies: ["Problem-Solving", "Java", "C", "OOP"],
+  // },
   // {
   //   year: "2021 - 2022",
   //   role: "Full Stack Developer",
@@ -52,6 +52,21 @@ export const EXPERIENCES = [
   //   technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
   // },
 ];
+
+export const EDUCATION = [
+  {
+    year: " 2024 - 2027",
+    role: " bachelor's degree",
+    company: " Computer Science",
+    description: `Applied Object-Oriented Programming (OOP) principles, including polymorphism, in C and
+      Java. Gained experience with data structures such as binary trees and algorithms,
+      focusing on time complexity and optimization. Developed proficiency in C and Java,
+      including memory management with pointers in C and efficient coding practices in Java.
+      Completed various projects that demonstrated practical application and advanced
+      problem-solving abilities.`,
+    technologies: ["Problem-Solving", "Java", "C", "OOP"],
+  }
+]
 
 export const PROJECTS = [
   {
