@@ -1,8 +1,18 @@
-# React + Vite
+## Personal Website 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal static website built with **Vite**, **React**, **JavaScript**, **Tailwind CSS**, and **HTML**. The website serves as an online portfolio, showcasing information about myself, similar to a GitHub profile README.
 
-Currently, two official plugins are available:
+### 🚀 Features
+- Built with **React** for a smooth and interactive user experience.
+- Styled using **Tailwind CSS** for a modern, responsive design.
+- Fast performance powered by **Vite**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📜 Technologies Used
+- **Vite**: Build tool for fast development.
+- **React**: JavaScript library for building user interfaces.
+- **JavaScript**: Core programming language for interactivity.
+- **Tailwind CSS**: Utility-first CSS framework for rapid styling.
+- **HTML**: Structure and content of the website.
+
+### 🌍 Live Demo
+You can view the website live at [this link](https://evyatar-site.onrender.com/) ✨
